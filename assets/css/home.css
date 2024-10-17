@@ -291,3 +291,56 @@
 }
 
 /* CSS for footer  */
+.footer {
+    background: #000;
+    padding: 40px 0;
+    color: #b9b9b9;
+    position: relative;
+
+}
+
+.f-container {
+    position: relative;
+    padding-left: 260px;
+    padding-right: 65px;
+    height: 90px;
+}
+
+.f-about {
+    float: left;
+    width: 650px;
+}
+
+.f-text {
+    margin-bottom: 15px;
+    font: 15px Arial;
+}
+
+.f-menu {
+    color: #fff;
+    font: 14px Arial;
+}
+
+.f-notice {
+    float: right;
+}
+
+.f-notice-span {
+    display: inline-block;
+    padding: 10px;
+    max-width: 340px;
+    line-height: 1.3em;
+    font-weight: 300;
+    border: 1px solid #393939;
+    text-align: justify;
+    font: 13px Arial;
+}
+
+.f-logo {
+    position: absolute;
+    left: 65px;
+}
+
+.logo {
+    height: 46px;
+}
